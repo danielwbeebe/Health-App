@@ -9,4 +9,3 @@ This app allows a user to create a unique login, track weight and BMI, get motiv
 ## Technology
 
 This app is created using Express and Postgres for the back-end, and React for the front-end.
-# Health-App
